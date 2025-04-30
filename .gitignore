@@ -1,0 +1,6 @@
+*.log
+*.pyc
+.env
+__pycache__/
+.streamlit
+book-ai-env
